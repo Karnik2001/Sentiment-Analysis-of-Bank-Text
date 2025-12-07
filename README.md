@@ -37,3 +37,9 @@ This project applies NLP techniques and ML models to classify sentiment from fin
 - Topic modeling
 
 - Real-time sentiment dashboard
+
+## Citations
+
+https://www.datacamp.com/tutorial/text-analytics-beginners-nltk
+
+ChatGPT
