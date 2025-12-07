@@ -22,10 +22,18 @@ This project applies NLP techniques and ML models to classify sentiment from fin
 
 - Python
 
-- Pandas, NumPy
+- Pandas
 
 - Scikit-learn
 
-- NLTK / spaCy
+- NLTK 
 
 - Matplotlib
+
+## 📌 Future Improvements
+
+- Deep learning sentiment models
+
+- Topic modeling
+
+- Real-time sentiment dashboard
